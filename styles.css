@@ -11,18 +11,5 @@ img:hover{
 }
 
 
-/************* CLASS SELECTORS***************/
-
-.bacon{
-  background-color: green;
-}
-
-.mango{
-  background-color: red;
-}
-
-.circular{
-  border-radius: 100%;
-}
 
 
